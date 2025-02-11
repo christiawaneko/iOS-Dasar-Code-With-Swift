@@ -27,6 +27,7 @@ print("\(name) From \(address)")
 // #### Tuples
 //tuple adalah sekumpulan tipe data yang di digabungkan menjadi 1, tipe data penyusunnya bisa apa aja.
 var kota = ("Jakarta","Surakarta","Bandung")
+var kota = ("Jakasrta","Surakarta","Bansdung")
 print(kota.1)
 
 var kota2 = (a: "Jakarta",b:"Surakarta",c:"Bandung")
