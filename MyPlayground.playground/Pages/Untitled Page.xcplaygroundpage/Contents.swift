@@ -4,7 +4,7 @@ var str = "Hello, playground"
 
 
 
-// ##################### Declaring Swift Variables
+// #######Declaring Swift Variables
 
 // var <variable name> : <type> = <value>
 var pi : Double = 3.14159
